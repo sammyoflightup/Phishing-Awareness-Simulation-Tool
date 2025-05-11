@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Detector</title>
+</head>
+<body>
+    <h1>Email Phishing Detector</h1>
+    <form action="/" method="POST">
+        <label for="email">Enter email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+        
+        <label for="content">Enter email content:</label><br>
+        <textarea id="content" name="content" rows="6" cols="50" placeholder="Paste the content of the email here..." required></textarea><br><br>
+        
+        <button type="submit">Check</button>
+    </form>
+
+    {% if result %}
+        <p>{{ result }}</p>
+    {% endif %}
+    
+    {% if email_result %}
+        <p>{{ email_result }}</p>
+    {% endif %}
+</body>
+</html>
