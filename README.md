@@ -43,14 +43,14 @@ Build a system that:
 
 ## 📸 Screenshots
 
-| Input Stage | Validation | Result |
-|-------------|------------|--------|
-| ![Step 1](screenshots/step1.png) | ![Step 2](screenshots/step2.png) | ![Step 3](screenshots/step3.png) |
+| Input Stage                                                                                                                                                                                 | Validation                                                                                                                                                                                 | Result                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Step 1 - Input Stage](https://github.com/user-attachments/assets/56699b56-f100-49de-b7dd-0e1a3008fc09)](https://github.com/user-attachments/assets/56699b56-f100-49de-b7dd-0e1a3008fc09) | [![Step 2 - Validation](https://github.com/user-attachments/assets/16b77fe1-7600-4b2b-9d2d-36aa07ae6626)](https://github.com/user-attachments/assets/16b77fe1-7600-4b2b-9d2d-36aa07ae6626) | [![Step 3 - Result](https://github.com/user-attachments/assets/a9292d69-0a4b-40d4-b92f-fdbdf889eedf)](https://github.com/user-attachments/assets/a9292d69-0a4b-40d4-b92f-fdbdf889eedf) |
 
 ---
 
 # 1. Clone the repo
-git clone https://github.com/yourusername/Phishing-Awareness-Simulation-Tool.git
+git clone (https://github.com/sammyoflightup/Phishing-Awareness-Simulation-Tool)
 cd Phishing-Awareness-Simulation-Tool
 
 # 2. Create a virtual environment (optional but recommended)
